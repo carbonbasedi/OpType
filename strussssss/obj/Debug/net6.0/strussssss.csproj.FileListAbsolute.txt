@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\strussssss\strussssss\bin\Debug\net6.0\strussssss.exe
+C:\Users\rusla\source\repos\strussssss\strussssss\bin\Debug\net6.0\strussssss.deps.json
+C:\Users\rusla\source\repos\strussssss\strussssss\bin\Debug\net6.0\strussssss.runtimeconfig.json
+C:\Users\rusla\source\repos\strussssss\strussssss\bin\Debug\net6.0\strussssss.dll
+C:\Users\rusla\source\repos\strussssss\strussssss\bin\Debug\net6.0\strussssss.pdb
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\strussssss.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\strussssss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\strussssss.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\strussssss.AssemblyInfo.cs
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\strussssss.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\strussssss.dll
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\refint\strussssss.dll
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\strussssss.pdb
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\strussssss.genruntimeconfig.cache
+C:\Users\rusla\source\repos\strussssss\strussssss\obj\Debug\net6.0\ref\strussssss.dll
